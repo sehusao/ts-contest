@@ -1,0 +1,11 @@
+{
+  "name": "contest",
+  "version": "1.0.0",
+  "main": "timestamp.js",
+  "scripts": {
+    "test": "node timestamp.test.js"
+  },
+  "author": "Se Hu",
+  "license": "MIT",
+  "description": ""
+}
