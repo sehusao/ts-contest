@@ -9,3 +9,4 @@
 - **npm**: 10.9.2
 - **Node flags**: none  
 - **Env vars**: none  
+- **Model**: ChatGPT 5
