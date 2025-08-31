@@ -3,7 +3,7 @@
 ## Environment
 
 - **OS**: Microsoft Windows 11 Pro (10.0.26100 N/A Build 26100)
-- **CPU**: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2803 Mhz
+- **CPU**: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
 - **RAM**: 32 GB  
 - **Node.js**: v22.17.0  
 - **npm**: 10.9.2
